@@ -1,0 +1,19 @@
+body{
+    background: #191726 ;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card img{
+width: 100%;
+height: 260px;
+}
+.sobre{
+    color: #FFFFFF;}
+.shows{
+        color: #FFFFFF;}
+.musicas{
+    color:#FFFFFF;
+}
